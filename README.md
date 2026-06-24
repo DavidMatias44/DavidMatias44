@@ -24,3 +24,7 @@
 * Data modeling using Inmon, Kimball.
 * Medallion architecture.
 * Data Warehouse and Data Lake.
+
+### Relevant projects
+
+* [Data Warehouse implementation](https://github.com/DavidMatias44/sql_dwh_project)
