@@ -8,6 +8,7 @@
 
 * Advanced SQL (window functions, CTEs, query optimization).
 * Intermediate Python.
+* Currently learning Apache Spark.
 
 #### Cloud
 
@@ -17,7 +18,7 @@
 
 * Git.
 * GitHub Actions.
-* Currently learning Apache Airflow.
+* Apache Airflow.
 
 #### Architecure and Storage
 
