@@ -8,23 +8,23 @@
 
 * Advanced SQL (window functions, CTEs, query optimization).
 * Intermediate Python.
-* Currently learning Apache Spark.
+* Apache Spark (PySpark, Spark SQL).
 
 #### Cloud
 
+* Databricks.
 * Experience with Microsoft Azure.
 
 #### Tools and DevOps
 
-* Git.
-* GitHub Actions.
-* Apache Airflow.
+* Version control & CI/CD: Git, GitHub Actions.
+* Orchestration: Apache Airflow, Databricks workflow.
 
 #### Architecure and Storage
 
 * Data modeling using Inmon, Kimball.
 * Medallion architecture.
-* Data Warehouse and Data Lake.
+* Data Warehouse, Data Lake and Data Lakehouse.
 
 ### Relevant projects
 
