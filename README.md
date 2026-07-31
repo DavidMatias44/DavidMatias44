@@ -13,7 +13,7 @@
 #### Cloud
 
 * Databricks.
-* Experience with Microsoft Azure.
+* Microsoft Azure.
 
 #### Tools and DevOps
 
@@ -28,4 +28,5 @@
 
 ### Relevant projects
 
+* [Data Lakehouse in Databricks](https://github.com/DavidMatias44/databricks_data_lakehouse)
 * [Data Warehouse implementation](https://github.com/DavidMatias44/sql_dwh_project)
