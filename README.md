@@ -1,6 +1,6 @@
 # Hi, I'm David Matias
 
-## A computer engineering graduate with a strong interest in Data Engineering and cloud ecosystems.
+## A computer engineering graduate with a strong interest in Data Engineering, ETL development and cloud ecosystems.
 
 ### Skills
 
