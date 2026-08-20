@@ -13,7 +13,6 @@
 #### Cloud
 
 * Databricks.
-* Microsoft Azure.
 
 #### Tools and DevOps
 
@@ -27,6 +26,6 @@
 * Data Warehouse, Data Lake and Data Lakehouse.
 
 ### Relevant projects
-
+* [Weather data pipeline](https://github.com/DavidMatias44/weather_data_pipeline)
 * [Data Lakehouse in Databricks](https://github.com/DavidMatias44/databricks_data_lakehouse)
 * [Data Warehouse implementation](https://github.com/DavidMatias44/sql_dwh_project)
