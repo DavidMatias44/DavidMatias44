@@ -31,7 +31,9 @@ Junior Data Engineer with solid foundations in dimensional modeling, ELT & ETL p
 
 ### Cloud
 
-* Databricks/Databricks Workflows.
+* Databricks.
+* Microsoft Azure.
+* Amazon Web Services.
 
 ## Relevant projects
 
